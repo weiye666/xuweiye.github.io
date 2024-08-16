@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. degree from Zhejiang University under the supervision of Professor [Jinsong Han](https://person.zju.edu.cn/en/hanjinsong#0). Previously, I received my B.Eng in Computer Science and Technology from Wuhan University (Outstanding Engineer Class) in 2019.
+I received my Ph.D. degree in Computer Science and Technology from Zhejiang University under the supervision of Professor [Jinsong Han](https://person.zju.edu.cn/en/hanjinsong#0). Previously, I received my B.Eng in Computer Science and Technology from Wuhan University (Outstanding Engineer Class).
+
+More details can be found in my [CV](https://person.zju.edu.cn/en/hanjinsong#0).
 
 A data-driven personal website
 ======
