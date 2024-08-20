@@ -23,12 +23,21 @@ Publications
 [Paper]()  [Slides]()  [Video]()
 
 
-**[[MOBICOM 2022, CCF-A]** Mask Does Not Matter: Anti-Spoofing Face Authentication using mmWave Without On-site Registration. Proceedings of the 28th Annual International Conference on Mobile Computing And
+**[MOBICOM 2022, CCF-A]** Mask Does Not Matter: Anti-Spoofing Face Authentication using mmWave Without On-site Registration. Proceedings of the 28th Annual International Conference on Mobile Computing And
  Networking, 2022.  
 ***Weiye Xu***, Wenfan Song, Jianwei Liu, Yajie Liu, Xin Cui, Yuanqing Zheng, Jinsong Han, Xinhuai
- Wang, Kui Ren 
+ Wang, Kui Ren  
  [Paper]()  [Slides]()  [Video]()
 
+
+**[INFOCOM 2021, CCF-A]** RFace:Anti-Spoofing FacialAuthentication Using COTS RFID. Proceedings of IEEE International Conference on Computer Communications, 2021.  
+***Weiye Xu***, Jianwei Liu, Shimin Zhang, Yuanqing Zheng, Feng Lin, Jinsong Han, Fu Xiao, Kui Ren  
+[Paper]()  [Slides]()  [Video]()
+
+
+**[TMC 2023, CCF-A]** Anti-Spoofing FacialAuthentication Based on COTS RFID. IEEE Transactions on Mobile Computing, 2023. 
+***Weiye Xu***, Jianwei Liu, Shimin Zhang, Yuanqing Zheng, Feng Lin, Fu Xiao, Jinsong Han 
+[Paper]() 
 
 Site-wide configuration
 ------
