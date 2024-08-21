@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. degree in Computer Science and Technology from Zhejiang University under the supervision of Professor [Jinsong Han](https://person.zju.edu.cn/en/hanjinsong#0). Previously, I received my B.Eng in Computer Science and Technology from Wuhan University (Outstanding Engineer Class) in 2019.
+I received my Ph.D. degree in Computer Science and Technology from Zhejiang University under the supervision of Professor [Jinsong Han](https://person.zju.edu.cn/en/hanjinsong#0). Previously, I received my B.Eng in Computer Science and Technology from Wuhan University (Outstanding Engineer Class) in 2019 (武汉大学卓越工程师班).
 
 More details can be found in my [CV](https://person.zju.edu.cn/en/hanjinsong#0).
 
@@ -57,7 +57,11 @@ Journals
 
 Awards And Honors
 ======
-China National Scholarship 
+2020.10 China National Scholarship (Top 1%)
+2021.05 IEEE INFOCOM Best Paper Award Nomination
+2021.10 Xiaomi Scholarship (Top 1%)
+2021.10 HUAWEI Scholarship (Top 1%)
+2024.06 Outstanding Graduate of ZJU
 
 Services
 ======
