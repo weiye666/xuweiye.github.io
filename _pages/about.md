@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. degree in Computer Science and Technology from Zhejiang University, advised by Professor [Jinsong Han](https://person.zju.edu.cn/en/hanjinsong#0). Previously, I received my B.Eng in Computer Science and Technology from Wuhan University (Outstanding Engineer Class) in 2019 (武汉大学卓越工程师班).
+I received my Ph.D. degree in Computer Science and Technology from Zhejiang University under the supervision of Professor [Jinsong Han](https://person.zju.edu.cn/en/hanjinsong#0). Previously, I received my B.Eng in Computer Science and Technology from Wuhan University (Outstanding Engineer Class) in 2019 (武汉大学卓越工程师班).
 
 More details can be found in my [CV](https://person.zju.edu.cn/en/hanjinsong#0).
 
@@ -24,7 +24,7 @@ Conferences
 
 **[USENIX Security 2025, CCF-A]** DiskSpy: Exploring a Long-Range Covert Channel via mmWave Sensing of 𝜇m-level HDD Vibrations. Proceedings of USENIX Security Symposium, 2025.  
 ***Weiye Xu***, Danli Wen, Jianwei Liu, Zixin Lin, Yuanqing Zheng, Jinsong Han  
-[Paper]()  [Slides]()  [Video]()
+To appear
 
 
 **[MOBICOM 2022, CCF-A]** Mask Does Not Matter: Anti-Spoofing Face Authentication using mmWave Without On-site Registration. Proceedings of the 28th Annual International Conference on Mobile Computing And
