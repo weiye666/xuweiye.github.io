@@ -33,7 +33,7 @@ To appear
  Networking, 2022.  
 ***Weiye Xu***, Wenfan Song, Jianwei Liu, Yajie Liu, Xin Cui, Yuanqing Zheng, Jinsong Han, Xinhuai
  Wang, Kui Ren  
- [Paper](files/mmFace-MobiCom22.pdf)  [Slides](/files/mmFace-slides.pdf)  [Video]()
+ [Paper](../files/mmFace-MobiCom22.pdf)  [Slides](../files/mmFace-slides.pdf)  [Video]()
 
 
 **[INFOCOM 2021, CCF-A]** RFace:Anti-Spoofing FacialAuthentication Using COTS RFID. Proceedings of IEEE International Conference on Computer Communications, 2021. ***(Best Paper Award Candidate)***
