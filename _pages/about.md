@@ -11,6 +11,8 @@ I received my Ph.D. degree in Computer Science and Technology from Zhejiang Univ
 
 More details can be found in my [CV](https://person.zju.edu.cn/en/hanjinsong#0).
 
+**I am on the job market, please feel free to contact me.**
+
 Research Interests
 ======
 Mobile Computing, Wireless Sensing, IoT Security, Millimeter Wave
