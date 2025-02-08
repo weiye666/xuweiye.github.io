@@ -26,7 +26,7 @@ Conferences
 
 **[USENIX Security 2025, CCF-A]** DiskSpy: Exploring a Long-Range Covert Channel via mmWave Sensing of 𝜇m-level HDD Vibrations. Proceedings of USENIX Security Symposium, 2025.  
 ***Weiye Xu***, Danli Wen, Jianwei Liu, Zixin Lin, Yuanqing Zheng, Jinsong Han  
- [Paper](../files/mmFace-MobiCom22.pdf)  [Code](../files/mmFace-slides.pdf) 
+ [Paper](../files/DiskSpy_usenix24_camera_ready.pdf)
 
 
 **[MOBICOM 2022, CCF-A]** Mask Does Not Matter: Anti-Spoofing Face Authentication using mmWave Without On-site Registration. Proceedings of the 28th Annual International Conference on Mobile Computing And
@@ -36,28 +36,28 @@ Conferences
  [Paper](../files/mmFace-MobiCom22.pdf)  [Slides](../files/mmFace-slides.pdf) 
 
 
-**[INFOCOM 2021, CCF-A]** RFace:Anti-Spoofing FacialAuthentication Using COTS RFID. Proceedings of IEEE International Conference on Computer Communications, 2021.
-***(Best Paper Award Candidate)***
+**[INFOCOM 2021, CCF-A]** RFace:Anti-Spoofing FacialAuthentication Using COTS RFID. Proceedings of IEEE International Conference on Computer Communications, 2021.  
+***(Best Paper Award Candidate)***  
 ***Weiye Xu***, Jianwei Liu, Shimin Zhang, Yuanqing Zheng, Feng Lin, Jinsong Han, Fu Xiao, Kui Ren  
 [Paper](../files/RFace-INFOCOM21.pdf)  [Slides](../files/rface-slides.pdf) 
 
 **[MOBICOM 2020, CCF-A]** Deaf-Aid: Mobile IoT Communication Exploiting Stealthy Speaker-to-Gyroscope Channel. Proceedings of the 28th Annual International Conference on Mobile Computing And Networking, 2020.  
 Ming Gao, Feng Lin, ***Weiye Xu***, Muertikepu Nuermaimaiti, Jinsong Han, Wenyao Xu, Kui Ren   
-[Paper]() 
+[Paper](../files/) 
  
  **[IWQoS 2024, CCF-B]** Manipulating Semantic Communication by Adding Adversarial Perturbations to Wireless Channel. Proceedings of IEEE/ACM International Symposium on Quality of Service, 2024.    
  Jianwei Liu, Yinghui He, ***Weiye Xu***, Yifan Xie, Jinsong Han   
- [Paper]()
+ 
 
 Journals
 ------
-**[TMC 2023, CCF-A]** Anti-Spoofing Facial Authentication Based on COTS RFID. IEEE Transactions on Mobile Computing, 2023.
+**[TMC 2023, CCF-A]** Anti-Spoofing Facial Authentication Based on COTS RFID. IEEE Transactions on Mobile Computing, 2023.  
 ***Weiye Xu***, Jianwei Liu, Shimin Zhang, Yuanqing Zheng, Feng Lin, Fu Xiao, Jinsong Han    
 [Paper]() 
 
- **[TON 2023, CCF-A]** Mobile Communication Among COTS IoT Devices via a Resonant Gyroscope with Ultrasound. IEEE/ACM Transactions on Networking, 2022.  
+ **[TON 2023, CCF-A]** Mobile Communication Among COTS IoT Devices via a Resonant Gyroscope with Ultrasound. IEEE/ACM Transactions on Networking, 2022.   
  Feng Lin, Ming Gao, Lingfeng Zhang, Yimin Li, ***Weiye Xu***, Jinsong Han, Xian Xu, Wenyao Xu, Kui Ren   
- [Paper]() 
+ 
 
 Awards And Honors
 ======
