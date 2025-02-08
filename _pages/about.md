@@ -26,7 +26,7 @@ Conferences
 
 **[USENIX Security 2025, CCF-A]** DiskSpy: Exploring a Long-Range Covert Channel via mmWave Sensing of 𝜇m-level HDD Vibrations. Proceedings of USENIX Security Symposium, 2025.  
 ***Weiye Xu***, Danli Wen, Jianwei Liu, Zixin Lin, Yuanqing Zheng, Jinsong Han  
-To appear
+ [Paper](../files/mmFace-MobiCom22.pdf)  [Code](../files/mmFace-slides.pdf) 
 
 
 **[MOBICOM 2022, CCF-A]** Mask Does Not Matter: Anti-Spoofing Face Authentication using mmWave Without On-site Registration. Proceedings of the 28th Annual International Conference on Mobile Computing And
@@ -36,7 +36,8 @@ To appear
  [Paper](../files/mmFace-MobiCom22.pdf)  [Slides](../files/mmFace-slides.pdf) 
 
 
-**[INFOCOM 2021, CCF-A]** RFace:Anti-Spoofing FacialAuthentication Using COTS RFID. Proceedings of IEEE International Conference on Computer Communications, 2021. ***(Best Paper Award Candidate)***
+**[INFOCOM 2021, CCF-A]** RFace:Anti-Spoofing FacialAuthentication Using COTS RFID. Proceedings of IEEE International Conference on Computer Communications, 2021.
+***(Best Paper Award Candidate)***
 ***Weiye Xu***, Jianwei Liu, Shimin Zhang, Yuanqing Zheng, Feng Lin, Jinsong Han, Fu Xiao, Kui Ren  
 [Paper](../files/RFace-INFOCOM21.pdf)  [Slides](../files/rface-slides.pdf) 
 
