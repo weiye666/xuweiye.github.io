@@ -17,12 +17,6 @@ Research Interests
 ======
 Mobile Computing, Wireless Sensing, IoT Security, Millimeter Wave
 
-Education
-======
-* Ph.D in Zhejiang University, 2019-2024
-* B.S. in Wuhan University, 2015-2019
-
-
 
 Publications
 ======
@@ -67,6 +61,12 @@ Journals
  **[TON 2023, CCF-A]** Mobile Communication Among COTS IoT Devices via a Resonant Gyroscope with Ultrasound. IEEE/ACM Transactions on Networking, 2022.   
  Feng Lin, Ming Gao, Lingfeng Zhang, Yimin Li, ***Weiye Xu***, Jinsong Han, Xian Xu, Wenyao Xu, Kui Ren   
  
+
+Education
+======
+* Ph.D in Zhejiang University, 2019-2024
+* B.S. in Wuhan University, 2015-2019
+
 
 Awards And Honors
 ======
