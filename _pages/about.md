@@ -26,7 +26,7 @@ Conferences
 
 **[USENIX Security 2025, CCF-A]** DiskSpy: Exploring a Long-Range Covert Channel via mmWave Sensing of 𝜇m-level HDD Vibrations. Proceedings of USENIX Security Symposium, 2025.  
 ***Weiye Xu***, Danli Wen, Jianwei Liu, Zixin Lin, Yuanqing Zheng, Jinsong Han  
- [Paper](https://github.com/weiye666/xuweiye.github.io/blob/master/files/DiskSpy_usenix24_camera_ready.pdf) [Code](https://doi.org/10.5281/zenodo.14649224)
+ [Paper](/files/DiskSpy_usenix24_camera_ready.pdf) [Code](https://doi.org/10.5281/zenodo.14649224)
 
 
 **[MOBICOM 2022, CCF-A]** Mask Does Not Matter: Anti-Spoofing Face Authentication using mmWave Without On-site Registration. Proceedings of the 28th Annual International Conference on Mobile Computing And
