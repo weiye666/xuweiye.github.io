@@ -22,13 +22,6 @@ Education
 * Ph.D in Zhejiang University, 2019-2024
 * B.S. in Wuhan University, 2015-2019
 
-#Work experience
-#======
-#* Spring 2024: Academic Pages Collaborator
-#  * Github University
-#  * Duties includes: Updates and improvements to template
-#  * Supervisor: The Users
-
 
 
 Publications
