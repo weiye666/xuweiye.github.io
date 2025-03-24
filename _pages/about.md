@@ -45,6 +45,9 @@ Conferences
 Ming Gao, Feng Lin, ***Weiye Xu***, Muertikepu Nuermaimaiti, Jinsong Han, Wenyao Xu, Kui Ren   
 [Paper](../files/deafaid-mobicom2020.pdf)  [Slides](../files/Deaf-Aid-slides.pdf)
  
+ **[CVPR 2025, CCF-A]** Your Scale Factors are My Weapon: Targeted Bit-Flip Attacks on Vision Transformers via Scale Factor Manipulation. The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025.    
+ Jialai Wang, Yuxiao Wu, ***Weiye Xu***, Yating Huang, Chao Zhang, Zongpeng Li, Mingwei Xu, Zhenkai Liang   
+
  **[IWQoS 2024, CCF-B]** Manipulating Semantic Communication by Adding Adversarial Perturbations to Wireless Channel. Proceedings of IEEE/ACM International Symposium on Quality of Service, 2024.    
  Jianwei Liu, Yinghui He, ***Weiye Xu***, Yifan Xie, Jinsong Han   
  
