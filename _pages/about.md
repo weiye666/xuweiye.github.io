@@ -33,17 +33,17 @@ Conferences
  Networking, 2022.  
 ***Weiye Xu***, Wenfan Song, Jianwei Liu, Yajie Liu, Xin Cui, Yuanqing Zheng, Jinsong Han, Xinhuai
  Wang, Kui Ren  
- [Paper](../files/mmFace-MobiCom22.pdf)  [Slides](../files/mmFace-slides.pdf) 
+ [Paper](https://github.com/weiye666/xuweiye.github.io/blob/master/files/mmFace-MobiCom22.pdf)  [Slides](https://github.com/weiye666/xuweiye.github.io/blob/master/files/mmFace-slides.pdf) 
 
 
 **[INFOCOM 2021, CCF-A]** RFace:Anti-Spoofing FacialAuthentication Using COTS RFID. Proceedings of IEEE International Conference on Computer Communications, 2021.  
 ***(Best Paper Award Candidate)***  
 ***Weiye Xu***, Jianwei Liu, Shimin Zhang, Yuanqing Zheng, Feng Lin, Jinsong Han, Fu Xiao, Kui Ren  
-[Paper](../files/RFace-INFOCOM21.pdf)  [Slides](../files/rface-slides.pdf) 
+[Paper](https://github.com/weiye666/xuweiye.github.io/blob/master/files/RFace-INFOCOM21.pdf)  [Slides](https://github.com/weiye666/xuweiye.github.io/blob/master/files/rface-slides.pdf) 
 
 **[MOBICOM 2020, CCF-A]** Deaf-Aid: Mobile IoT Communication Exploiting Stealthy Speaker-to-Gyroscope Channel. Proceedings of the 28th Annual International Conference on Mobile Computing And Networking, 2020.  
 Ming Gao, Feng Lin, ***Weiye Xu***, Muertikepu Nuermaimaiti, Jinsong Han, Wenyao Xu, Kui Ren   
-[Paper](../files/deafaid-mobicom2020.pdf)  [Slides](../files/Deaf-Aid-slides.pdf)
+[Paper](https://github.com/weiye666/xuweiye.github.io/blob/master/files/deafaid-mobicom2020.pdf)  [Slides](https://github.com/weiye666/xuweiye.github.io/blob/master/files/Deaf-Aid-slides.pdf)
  
  **[CVPR 2025, CCF-A]** Your Scale Factors are My Weapon: Targeted Bit-Flip Attacks on Vision Transformers via Scale Factor Manipulation. The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025.    
  Jialai Wang, Yuxiao Wu, ***Weiye Xu***, Yating Huang, Chao Zhang, Zongpeng Li, Mingwei Xu, Zhenkai Liang   
