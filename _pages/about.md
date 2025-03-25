@@ -9,7 +9,7 @@ redirect_from:
 
 I received my Ph.D. degree in Computer Science and Technology from Zhejiang University under the supervision of Professor [Jinsong Han](https://person.zju.edu.cn/en/hanjinsong#0). Previously, I received my B.Eng in Computer Science and Technology from Wuhan University (Outstanding Engineer Class) in 2019 (武汉大学卓越工程师班).
 
-More details can be found in my [CV](https://github.com/weiye666/xuweiye.github.io/blob/master/assets/CV_xwy_new.pdf)[中文版](../assets/徐炜烨简历.pdf)
+More details can be found in my [CV](https://github.com/weiye666/xuweiye.github.io/blob/master/assets/CV_xwy_final.pdf)[中文版](https://github.com/weiye666/xuweiye.github.io/blob/master/assets/徐炜烨简历.pdf)
 
 
 
